@@ -10,3 +10,6 @@ Executar a classe server.HangmanServer
 
 ## Executar os Clientes
 Executar a classe client.HangmanClient
+
+## Vídeo demonstrativo
+https://youtu.be/rTI5bJqTjps
